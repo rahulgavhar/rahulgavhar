@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rahulgavhar
 - 👀 I’m interested in Web Development, C++ & Python
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Python Projects
+- 📫 Reach me on linkedin.com/in/rahulgavhar
 
 <!---
 rahulgavhar/rahulgavhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
