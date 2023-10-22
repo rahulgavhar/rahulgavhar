@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python(Tenserflow)**
 
-- 🔭 I’m currently working on [Encryption Project](https://github.com/rahulgavhar/Beginner-Python-Projects)
+- 🔭 I’m currently working on [Python Projects](https://github.com/rahulgavhar/Beginner-Python-Projects)
 
 - 📫 How to reach me: **rahulgm369@gmail.com**
 
