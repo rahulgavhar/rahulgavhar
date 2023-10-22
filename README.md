@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Rahul Gavhar</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
 - 🌱 I’m currently learning **Python(Tenserflow)**
@@ -18,6 +18,6 @@
 
 <p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgavhar&show_icons=true&locale=en&layout=compact" alt="rahulgavhar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahulgavhar&show_icons=true&locale=en" alt="rahulgavhar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgavhar&show_icons=true&locale=en" alt="rahulgavhar" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgavhar&" alt="rahulgavhar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgavhar&" alt="rahulgavhar" /></p>
