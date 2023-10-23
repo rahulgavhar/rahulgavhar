@@ -21,4 +21,4 @@
 | ------------- | ------------- |
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgavhar&" alt="rahulgavhar" /></p>
+<p align="center"><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgavhar&" alt="rahulgavhar" /></a></p>
