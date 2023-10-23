@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rahulgavhar/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-3771043-3147660.png?f=webp&w=512" alt="https://www.linkedin.com/in/rahulgavhar/" height="30" width="35" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/rahulgavhar/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-3771043-3147660.png?f=webp&w=512" alt="https://www.linkedin.com/in/rahulgavhar/" height="32" width="35" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/https://www.x.com/rahulgavhar" target="blank"><img align="center" src="https://i.ibb.co/y66vNxn/image.png" alt="https://www.x.com/rahulgavhar" height="27" width="31" /></a>
 </p>
 
