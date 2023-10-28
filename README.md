@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Python Projects](https://github.com/rahulgavhar/Beginner-Python-Projects)
 
-- 📄 Personal Portfolio website: [https://rahulgavhar.github.io](https://rahulgavhar.github.io)
+- 📄 Personal Portfolio website: <a target="_blank" href="https://rahulgavhar.github.io">https://rahulgavhar.github.io</a>
 
 - 📫 How to reach me: **rahulgm369@gmail.com**
 
