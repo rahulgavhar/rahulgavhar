@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/bootstrap.png" alt="bootstrap" width="48" height="40"/></a>&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/css.png" alt="css3" width="39" height="37"/></a>&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/html.png" alt="html5" width="37" height="37"/></a>&nbsp;&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/javascript.png" alt="javascript" width="38" height="38"/></a>&nbsp;&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/python.png" alt="python" width="40" height="40"/></a>&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/django.png" alt="django" width="35" height="40"/></a></p>
+<p align="left"><a class="link-dis" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/bootstrap.png" alt="bootstrap" width="48" height="40"/></a>&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/css.png" alt="css3" width="39" height="37"/></a>&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/html.png" alt="html5" width="37" height="37"/></a>&nbsp;&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/javascript.png" alt="javascript" width="38" height="38"/></a>&nbsp;&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/python.png" alt="python" width="40" height="40"/></a>&nbsp;<a href="#" target="_self"><img src="https://raw.githubusercontent.com/rahulgavhar/rahulgavhar/main/Images/django.png" alt="django" width="35" height="40"/></a></p>
 
 
 | <a href="#" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgavhar&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#" target="_self"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgavhar&layout=compact&theme=github_dark&hide_border=true" /></a> |
@@ -28,3 +28,9 @@
 
 
 <p align="center"><a href="#" target="_self"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgavhar&theme=github_dark_dimmed" alt="rahulgavhar" /></a></p>
+
+<style>
+  .link-dis{
+    cursor:not-allowed;
+  }
+</style>
