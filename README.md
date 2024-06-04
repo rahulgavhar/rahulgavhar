@@ -13,7 +13,7 @@
 <h3 align="left">Open Source Programs</h3>
 <table align="left">
   <tr align="left">
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 🧑‍💻 Contributor at <br> <a href="https://socialsummerofcode.com/">SSOC'23</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🧑‍💻 Contributor at <br> <a href="https://hack2skill.com/hack/ssoc">SSOC'24</a> </td>
   </tr>
 </table>
 
