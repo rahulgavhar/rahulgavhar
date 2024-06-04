@@ -4,14 +4,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgavhar&label=Profile%20views&color=001496&style=flat" alt="rahulgavhar" /> </p>
 
 - 🌱 I’m currently learning **MERN**
-
 - 🔭 I’m currently working on [Portfolio](https://github.com/rahulgavhar/rahulgavhar.github.io)
-
 - 📄 Personal Portfolio website: <a href="https://rahulgavhar.github.io" target="_blank">https://rahulgavhar.github.io</a>
+- 🎊 I have a keen interest in **Full stack development** and **Artificial Intelligence** and I love developing softwares, websites, models, and web apps 🏈🎯
+- 🎭 I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on **GitHub** and collaborate with others in the open source community 🎰♠️
+- 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at rahulgm369@gmail.com. I'm always up for a good conversation! 📩👋
 
-- 📫 How to reach me: **rahulgm369@gmail.com**
+<h3 align="left">Open Source Programs</h3>
+<table align="left">
+  <tr align="left">
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🧑‍💻 Contributor at <br> <a href="https://socialsummerofcode.com/">SSOC'23</a> </td>
+  </tr>
+</table>
 
-- ⚡ Fun fact: **I Like to Play Chess**
+<br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +34,4 @@
 
 
 <p align="center"><a href="#" target="_self"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgavhar&theme=github_dark_dimmed" alt="rahulgavhar" /></a></p>
-<h5 align="center">Refresh Page if Data Not Visible</h5>
+<h5 align="center">*Refresh Page if Data Not Visible</h5>
